@@ -1,0 +1,6 @@
+From the creator of Science Mod (Doesn't mean I'm proud just means you can expect the quality)
+A feature from Sciencemod I will be expanding is changing the classes for weapons, For example the starfury is only a sword, Why not add a bow variant, or a spell variant, making every item useful throughout playthroughs
+
+V0.1 The Callbacks Update
+Added Blunderbuss
+Added Star Fury Weapon Variants

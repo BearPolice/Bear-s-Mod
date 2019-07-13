@@ -1,0 +1,5 @@
+displayName = Bear's Mod
+author = The Bear Police
+version = 0.1
+includeSource = false
+includePDB = false
